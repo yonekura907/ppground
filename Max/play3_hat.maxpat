@@ -18054,13 +18054,13 @@
 					"patching_rect" : [ 1573.5, 847.500003457069397, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "SE2",
 							"parameter_mmax" : 6.0,
 							"parameter_initial" : [ 0.0 ],
-							"parameter_shortname" : "SE2",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4
+							"parameter_shortname" : "SE2"
 						}
 
 					}
@@ -18117,13 +18117,13 @@
 					"patching_rect" : [ 1010.375, 834.500003457069397, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "SE1",
 							"parameter_mmax" : 6.0,
 							"parameter_initial" : [ 0.0 ],
-							"parameter_shortname" : "SE1",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4
+							"parameter_shortname" : "SE1"
 						}
 
 					}
@@ -18192,13 +18192,13 @@
 					"patching_rect" : [ 704.75, 508.330932999999959, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "DRUM",
 							"parameter_mmax" : 6.0,
 							"parameter_initial" : [ 0.0 ],
-							"parameter_shortname" : "DRUM",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4
+							"parameter_shortname" : "DRUM"
 						}
 
 					}
@@ -18326,13 +18326,13 @@
 					"patching_rect" : [ 342.999987959861755, 529.164272810371358, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
+							"parameter_type" : 0,
+							"parameter_unitstyle" : 4,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Total",
 							"parameter_mmax" : 6.0,
 							"parameter_initial" : [ 0.0 ],
-							"parameter_shortname" : "Total",
-							"parameter_type" : 0,
-							"parameter_unitstyle" : 4
+							"parameter_shortname" : "Total"
 						}
 
 					}
@@ -20850,10 +20850,10 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-1" : [ "SE2", "SE2", 0 ],
 			"obj-92" : [ "Total", "Total", 0 ],
-			"obj-256" : [ "DRUM", "DRUM", 0 ],
 			"obj-97" : [ "SE1", "SE1", 0 ],
+			"obj-256" : [ "DRUM", "DRUM", 0 ],
+			"obj-1" : [ "SE2", "SE2", 0 ],
 			"parameterbanks" : 			{
 
 			}
