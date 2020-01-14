@@ -18135,7 +18135,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "" ],
 					"patching_rect" : [ 311.500031590461731, 332.666671752929688, 117.0, 22.0 ],
-					"text" : "route /sensor/d1/dist"
+					"text" : "route /sensor/d2/dist"
 				}
 
 			}
