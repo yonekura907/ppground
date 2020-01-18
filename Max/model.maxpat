@@ -66,7 +66,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 1059.0, 735.0, 150.0, 20.0 ],
-					"text" : "3 Hat"
+					"text" : "3 Hat 192.168.100.176"
 				}
 
 			}
@@ -120,8 +120,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1059.0, 709.499999523162842, 157.0, 22.0 ],
-					"text" : "udpsend 127.0.0.1 7100"
+					"patching_rect" : [ 1059.0, 709.499999523162842, 175.0, 22.0 ],
+					"text" : "udpsend 192.168100.176 7100"
 				}
 
 			}
@@ -1082,7 +1082,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 588.0, 230.0, 126.0, 22.0 ],
-					"text" : "5 7 9 8 4 6 10 3 2 1"
+					"text" : "9 3 5 6 8 7 2 1 4 10"
 				}
 
 			}
