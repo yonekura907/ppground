@@ -2,6 +2,13 @@
 
 &nbsp;
 
+## Maxファイル
+1. Kick（圧力センサー）
+	* Max/play1_kick.maxpatch
+
+&nbsp;
+&nbsp;
+
 ## OSC Address
 
 `port : 7400`

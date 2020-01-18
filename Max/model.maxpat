@@ -44,7 +44,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1498.0, 735.0, 150.0, 33.0 ],
+					"patching_rect" : [ 1521.0, 735.0, 150.0, 33.0 ],
 					"text" : "5  192.168.100.179\nmitemo ohc06"
 				}
 
@@ -103,8 +103,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1498.0, 709.499999523162842, 157.0, 22.0 ],
-					"text" : "udpsend 127.0.0.1 7100"
+					"patching_rect" : [ 1521.0, 709.499999523162842, 178.0, 22.0 ],
+					"text" : "udpsend 192.168.100.179 7100"
 				}
 
 			}
@@ -114,8 +114,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1321.0, 709.499999523162842, 157.0, 22.0 ],
-					"text" : "udpsend 127.0.0.1 7100"
+					"patching_rect" : [ 1321.0, 709.499999523162842, 178.0, 22.0 ],
+					"text" : "udpsend 192.168.100.178 7100"
 				}
 
 			}
@@ -1087,7 +1087,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 588.0, 230.0, 126.0, 22.0 ],
-					"text" : "5 7 8 4 10 9 1 3 2 6"
+					"text" : "2 1 9 8 4 3 5 6 10 7"
 				}
 
 			}
