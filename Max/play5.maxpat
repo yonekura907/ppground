@@ -15316,8 +15316,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 178.5, 419.0, 49.0, 22.0 ],
-					"text" : "s s8dist"
+					"patching_rect" : [ 178.5, 419.0, 56.0, 22.0 ],
+					"text" : "s s10dist"
 				}
 
 			}
@@ -15328,7 +15328,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 48.166666984558105, 419.0, 49.0, 22.0 ],
-					"text" : "s s7dist"
+					"text" : "s s9dist"
 				}
 
 			}
