@@ -19,7 +19,7 @@ s1-10が距離センサー / d1-3が圧力センサー
 &nbsp;
 
 
-### 2 Rim
+### 2 Snare
 
 * /sensor/s3/dist
 * /sensor/s4/dist

@@ -2,7 +2,7 @@
 	"name" : "Ppground",
 	"version" : 1,
 	"creationdate" : 3661764161,
-	"modificationdate" : 3661802811,
+	"modificationdate" : 3662055116,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -31,14 +31,8 @@
 
 			}
 ,
-			"play2_rim.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Documents/Github/ppground/Max",
-					"projectrelativepath" : "../Max"
-				}
-
+			"play2_snare.maxpat" : 			{
+				"kind" : "patcher"
 			}
 ,
 			"play3_hat.maxpat" : 			{
@@ -52,11 +46,21 @@
 			}
 ,
 			"play4.maxpat" : 			{
-				"kind" : "patcher"
+				"kind" : "patcher",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/Github/ppground/Max",
+					"projectrelativepath" : "../Max"
+				}
+
 			}
 ,
 			"play5.maxpat" : 			{
-				"kind" : "patcher"
+				"kind" : "patcher",
+				"singleton" : 				{
+					"bootpath" : "~/Documents/Github/ppground/Max",
+					"projectrelativepath" : "../Max"
+				}
+
 			}
 
 		}
@@ -300,6 +304,86 @@
 					"projectrelativepath" : "../Max/Media"
 				}
 
+			}
+,
+			"Hat1.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat2.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat3.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat4.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat5.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat6.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat7.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat8.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat9.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Hat10.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare1.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare2.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare3.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare4.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare5.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare6.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare7.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare8.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare9.wav" : 			{
+				"kind" : "audiofile"
+			}
+,
+			"Snare10.wav" : 			{
+				"kind" : "audiofile"
 			}
 
 		}
