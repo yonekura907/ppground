@@ -19314,6 +19314,7 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-133",
+					"int" : 1,
 					"maxclass" : "gswitch2",
 					"numinlets" : 2,
 					"numoutlets" : 2,
@@ -21833,8 +21834,8 @@
 			"obj-182::obj-97" : [ "SE1[19]", "SE1", 0 ],
 			"obj-204::obj-97" : [ "SE1[4]", "SE1", 0 ],
 			"obj-52::obj-97" : [ "SE1[16]", "SE1", 0 ],
-			"obj-210::obj-256" : [ "DRUM[4]", "DRUM", 0 ],
 			"obj-197::obj-256" : [ "DRUM[3]", "DRUM", 0 ],
+			"obj-210::obj-256" : [ "DRUM[4]", "DRUM", 0 ],
 			"obj-202::obj-97" : [ "SE1[9]", "SE1", 0 ],
 			"parameterbanks" : 			{
 
