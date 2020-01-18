@@ -40,55 +40,60 @@
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-15",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1413.0, 735.0, 150.0, 20.0 ],
-					"text" : "5"
+					"patching_rect" : [ 1498.0, 735.0, 150.0, 33.0 ],
+					"text" : "5  192.168.100.179\nmitemo ohc06"
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-14",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1235.0, 735.0, 150.0, 20.0 ],
-					"text" : "4"
+					"patching_rect" : [ 1321.0, 735.0, 150.0, 33.0 ],
+					"text" : "4  192.168.100.178\nmitemo ohc01"
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-13",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1059.0, 735.0, 150.0, 20.0 ],
-					"text" : "3 Hat 192.168.100.176"
+					"patching_rect" : [ 1130.0, 735.0, 150.0, 33.0 ],
+					"text" : "3 Hat 192.168.100.176\nmitemo ohc05"
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-12",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 884.0, 735.0, 150.0, 20.0 ],
-					"text" : "2 Snare"
+					"patching_rect" : [ 933.0, 735.0, 150.0, 33.0 ],
+					"text" : "2 Snare 192.168.100.175\nMacbookAir13"
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-11",
+					"linecount" : 2,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 712.0, 735.0, 150.0, 20.0 ],
-					"text" : "1 Kick"
+					"patching_rect" : [ 712.0, 735.0, 150.0, 33.0 ],
+					"text" : "1 Kick 192.168.100.177\nMacbookAir15"
 				}
 
 			}
@@ -98,7 +103,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1413.0, 709.499999523162842, 157.0, 22.0 ],
+					"patching_rect" : [ 1498.0, 709.499999523162842, 157.0, 22.0 ],
 					"text" : "udpsend 127.0.0.1 7100"
 				}
 
@@ -109,7 +114,7 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1235.0, 709.499999523162842, 157.0, 22.0 ],
+					"patching_rect" : [ 1321.0, 709.499999523162842, 157.0, 22.0 ],
 					"text" : "udpsend 127.0.0.1 7100"
 				}
 
@@ -120,8 +125,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1059.0, 709.499999523162842, 175.0, 22.0 ],
-					"text" : "udpsend 192.168100.176 7100"
+					"patching_rect" : [ 1130.0, 709.499999523162842, 178.0, 22.0 ],
+					"text" : "udpsend 192.168.100.176 7100"
 				}
 
 			}
@@ -131,8 +136,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 884.0, 709.499999523162842, 157.0, 22.0 ],
-					"text" : "udpsend 127.0.0.1 7100"
+					"patching_rect" : [ 933.0, 709.499999523162842, 178.0, 22.0 ],
+					"text" : "udpsend 192.168.100.175 7100"
 				}
 
 			}
@@ -1009,8 +1014,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 712.0, 709.499999523162842, 157.0, 22.0 ],
-					"text" : "udpsend 127.0.0.1 7100"
+					"patching_rect" : [ 712.0, 709.499999523162842, 178.0, 22.0 ],
+					"text" : "udpsend 192.168.100.177 7100"
 				}
 
 			}
@@ -1082,7 +1087,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 588.0, 230.0, 126.0, 22.0 ],
-					"text" : "9 3 5 6 8 7 2 1 4 10"
+					"text" : "5 7 8 4 10 9 1 3 2 6"
 				}
 
 			}
@@ -1137,7 +1142,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-5", 0 ],
-					"midpoints" : [ 552.5, 765.0, 665.5, 765.0, 665.5, 669.499999523162842, 1068.5, 669.499999523162842 ],
+					"midpoints" : [ 552.5, 765.0, 665.5, 765.0, 665.5, 669.499999523162842, 1139.5, 669.499999523162842 ],
 					"source" : [ "obj-103", 0 ]
 				}
 
@@ -1145,7 +1150,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-4", 0 ],
-					"midpoints" : [ 434.5, 780.0, 678.0, 780.0, 678.0, 685.499999523162842, 893.5, 685.499999523162842 ],
+					"midpoints" : [ 434.5, 780.0, 678.0, 780.0, 678.0, 685.499999523162842, 942.5, 685.499999523162842 ],
 					"source" : [ "obj-104", 0 ]
 				}
 
