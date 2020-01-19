@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 102.0, -979.0, 1363.0, 927.0 ],
+		"rect" : [ 102.0, 79.0, 1363.0, 927.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -1370,7 +1370,7 @@
 					"patching_rect" : [ 449.916660904884338, 44.082132590488442, 46.0, 18.164265180976884 ],
 					"preset_data" : [ 						{
 							"number" : 1,
-							"data" : [ 5, "obj-17", "number", "int", 0, 5, "obj-92", "live.gain~", "float", -9.865489959716797, 5, "obj-69", "flonum", "float", 0.0, 5, "obj-256", "live.gain~", "float", -32.445816040039062, 5, "obj-60", "number", "int", 0, 5, "obj-97", "live.gain~", "float", -30.282081604003906, 5, "obj-1", "live.gain~", "float", -32.67578125, 5, "obj-16", "number", "int", 0, 5, "obj-133", "gswitch2", "int", 1, 5, "obj-47", "number", "int", 0, 5, "obj-104", "number", "int", 0, 5, "obj-4", "number", "int", 0, 20, "obj-198", "multislider", "list", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, "obj-161", "number", "int", 0, 5, "obj-199", "number", "int", 0, 5, "obj-212", "number", "int", 0, 5, "obj-216", "number", "int", 0, 5, "obj-217", "number", "int", 0, 5, "obj-232", "number", "int", 0, 5, "obj-236", "number", "int", 0, 5, "obj-241", "number", "int", 0, 5, "obj-237", "number", "int", 0, 5, "obj-253", "number", "int", 0, 5, "obj-223", "number", "int", 0 ]
+							"data" : [ 5, "obj-17", "number", "int", 0, 5, "obj-92", "live.gain~", "float", 0.0, 5, "obj-69", "flonum", "float", 0.0, 5, "obj-256", "live.gain~", "float", 0.0, 5, "obj-60", "number", "int", 0, 5, "obj-97", "live.gain~", "float", 0.0, 5, "obj-1", "live.gain~", "float", 0.0, 5, "obj-16", "number", "int", 0, 5, "obj-133", "gswitch2", "int", 1, 5, "obj-47", "number", "int", 0, 5, "obj-104", "number", "int", 0, 5, "obj-4", "number", "int", 0, 20, "obj-198", "multislider", "list", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, "obj-161", "number", "int", 0, 5, "obj-199", "number", "int", 0, 5, "obj-212", "number", "int", 0, 5, "obj-216", "number", "int", 0, 5, "obj-217", "number", "int", 0, 5, "obj-232", "number", "int", 0, 5, "obj-236", "number", "int", 0, 5, "obj-241", "number", "int", 0, 5, "obj-237", "number", "int", 0, 5, "obj-253", "number", "int", 0, 5, "obj-223", "number", "int", 0 ]
 						}
  ]
 				}
@@ -8592,6 +8592,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"comment" : "",
